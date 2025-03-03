@@ -233,9 +233,9 @@ Contributions, issues, and feature requests are welcome!
 
 For any inquiries or collaboration requests, feel free to reach out.
 
-📧 Email: [your-email@example.com](mailto\:bsvkpadala@gmail.com)\
-🐙 GitHub: [Your GitHub](https://github.com/pbsvk)\
-📘 LinkedIn: [Your LinkedIn](https://linkedin.com/in/pbsvk)
+📧 Email: [E-Mail](mailto\:bsvkpadala@gmail.com)\
+🐙 GitHub: [pbsvk](https://github.com/pbsvk)\
+📘 LinkedIn: [pbsvk](https://linkedin.com/in/pbsvk)
 
 Happy Coding! 🚀
 
