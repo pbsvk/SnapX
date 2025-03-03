@@ -6,7 +6,7 @@ import { createUserAccount,
     getUsers,
     createPost,
     
-    getUserPosts,
+    // getUserPosts,
  
     likePost,
     getUserById,
@@ -24,7 +24,7 @@ import { createUserAccount,
     getSavedPosts, } from '../appwrite/api'
 import { INewPost, INewUser, IUpdatePost, IUpdateUser } from '@/types'
 import { QUERY_KEYS } from './queryKeys'
-import { string } from 'zod'
+
 
 
 export const useCreateUserAccount = () => {
