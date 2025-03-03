@@ -1,5 +1,5 @@
 # SnapX
-https://github.com/user-attachments/assets/4c1ec489-e79a-4a8b-bbc1-fac57dadd313
+
 
 &#x20;
 
@@ -9,7 +9,7 @@ SnapX is a modern social media platform built with React, Appwrite, and other cu
 📌 **Author**: pbsvk
 
 ---
-
+https://github.com/user-attachments/assets/4c1ec489-e79a-4a8b-bbc1-fac57dadd313
 ## ⚙️ Tech Stack
 
 SnapX leverages the following technologies for a high-performance, scalable, and maintainable web application:
